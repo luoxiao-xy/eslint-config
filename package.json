@@ -1,7 +1,7 @@
 {
   "name": "@luoxiao123/eslint-config",
   "author": "luoxiao123",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "ESLint Shareable Configuration for Typescrpt",
   "keywords": [
     "ECMAScript Style",
