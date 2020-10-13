@@ -72,7 +72,7 @@ module.exports = {
     'max-lines': [2, { max: 1000, skipBlankLines: true, skipComments: true } ],
     'max-lines-per-function': [
       2, {
-        max: 100, skipBlankLines: true, skipComments: true, IIFEs: true,
+        max: 200, skipBlankLines: true, skipComments: true, IIFEs: true,
       },
     ],
     'no-bitwise': 2,
