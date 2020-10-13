@@ -6,6 +6,9 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
+## 说明
+
+- 规则根据`@waiting/eslint-config` fork，并根据自己项目进行修改
 
 ## Features
 - `@waiting/eslint-config/recommended` extends and customize from
