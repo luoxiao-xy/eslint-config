@@ -1,7 +1,7 @@
 {
-  "name": "@waiting/eslint-config",
-  "author": "waiting",
-  "version": "5.2.0",
+  "name": "@luoxiao123/eslint-config",
+  "author": "luoxiao123",
+  "version": "5.1.1",
   "description": "ESLint Shareable Configuration for Typescrpt",
   "keywords": [
     "ECMAScript Style",
@@ -21,12 +21,12 @@
   "module": "",
   "types": "",
   "bugs": {
-    "url": "https://github.com/waitingsong/eslint-config/issues"
+    "url": "https://github.com/luoxiao-xy/eslint-config/issues"
   },
-  "homepage": "https://github.com/waitingsong/eslint-config#readme",
+  "homepage": "https://github.com/luoxiao-xy/eslint-config#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waitingsong/eslint-config.git"
+    "url": "git+https://github.com/luoxiao-xy/eslint-config.git"
   },
   "license": "MIT",
   "dependencies": {
