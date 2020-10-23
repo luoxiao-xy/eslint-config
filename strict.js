@@ -8,7 +8,6 @@ module.exports = {
     '@typescript-eslint/no-explicit-any': [1],
     '@typescript-eslint/no-extraneous-class': 2,
     '@typescript-eslint/no-floating-promises': 0,
-    '@typescript-eslint/no-floating-promises': 0,
     '@typescript-eslint/no-require-imports': 2,
     '@typescript-eslint/no-throw-literal': 2,
     '@typescript-eslint/no-unnecessary-condition': 0,
@@ -27,6 +26,7 @@ module.exports = {
     '@typescript-eslint/prefer-ts-expect-error': 1,
     '@typescript-eslint/promise-function-async': 0,
     '@typescript-eslint/require-array-sort-compare': 2,
+    '@typescript-eslint/unbound-method': 0,
     'no-return-await': 0,
     '@typescript-eslint/return-await': 2,
     '@typescript-eslint/restrict-plus-operands': 0,
@@ -58,7 +58,7 @@ module.exports = {
 
     // https://eslint.org/docs/rules/#stylistic-issues
     'consistent-this': 1,
-    'id-length': [2, { min: 2, exceptions: ['_', 'i', 'k', 't', 'v', 'x'] } ],
+    'id-length': [2, { min: 2, exceptions: ['_', 'i','j', 'k', 't', 'v', 'x'] } ],
     'max-depth': [2, { max: 6 } ],
     'max-len': [
       2,
